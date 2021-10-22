@@ -1,2 +1,2 @@
 # character-creator
-creative coding midterm
+creative coding
